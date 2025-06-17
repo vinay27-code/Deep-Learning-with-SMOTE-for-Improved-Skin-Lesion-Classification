@@ -66,7 +66,7 @@ To enhance the classification accuracy of skin lesions by:
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/vinay27-code/
+    git clone https://github.com/vinay27-code/Deep-Learning-with-SMOTE-for-Improved-Skin-Lesion-Classification.git
 
 
 2. Install dependencies:
